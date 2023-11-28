@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15528125738",
+    "project_id": "react-native-dream-3a7ac",
+    "storage_bucket": "react-native-dream-3a7ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15528125738:android:eaa1e3cbed735547086a53",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ybzaiSUPciVIob5XkCgY3zwiCRAcjz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
